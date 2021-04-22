@@ -1,40 +1,25 @@
 <!-- classes: main -->
 
-# 触ってきた技術など
+# 業務経験
 
 <!-- block-start:grid -->
 
-<!-- block-start: column -->
+<!-- block-start:column -->
 
-##### JS
-- Vue
-- node.js
-- React
-- Next.js
-
-<!-- block-end -->
-
-<!-- block-start: column -->
-
-##### python
-- selenium
-- deep-learning(GAN)
-- flask
-- sklearn, janome
+### プログラミングの講師
+- 2017 ~ 2018
+- 主に python を用いた教室
+- ここで基礎を学びながら、教えていた
 
 <!-- block-end -->
 
-<!-- block-start: column -->
+<!-- block-start:column -->
 
-##### other
-  - php
-  - SQL
-  - Unity
-  - C#
-  - swift
-  - android
+### 開発
+- 2018 ~ 現在
+- Vue, php を用いた web アプリケーション開発
 
 <!-- block-end -->
 
-<!-- block-end -->
 
+<!-- block-end -->
